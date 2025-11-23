@@ -1,73 +1,55 @@
-# Welcome to your Lovable project
+Here is a perfect GitHub project description based on the files in your cinema-cartel-app project.
+You can copy-paste this directly into your GitHub repository description or README.
 
-## Project info
+🎬 Cinema Cartel – Movie Booking Web Application
 
-**URL**: https://lovable.dev/projects/fa074d5f-41b0-45a3-a470-aa2355b737cd
+Cinema Cartel is a modern and responsive movie-booking web application built using React, TypeScript, Tailwind CSS, and Shadcn UI.
+It provides users with a smooth interface to browse movies, view details, and book tickets.
 
-## How can I edit this code?
+🚀 Features
 
-There are several ways of editing your application.
+🎞️ Movie Listings – Displays current and upcoming movies
 
-**Use Lovable**
+📝 Movie Details Page – Shows movie description, cast, ratings
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fa074d5f-41b0-45a3-a470-aa2355b737cd) and start prompting.
+🪑 Seat Selection UI – Interactive seat booking interface
 
-Changes made via Lovable will be committed automatically to this repo.
+🎫 Ticket Booking Flow – Choose showtime, seats, and confirm booking
 
-**Use your preferred IDE**
+🔍 Search Functionality – Quickly find movies
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+📱 Fully Responsive Design – Works on desktop, tablet, and mobile
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+🎨 Modern UI – Uses Shadcn components and Tailwind styling
 
-Follow these steps:
+⚙️ Clean Code Structure – Easy to understand and extend
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+🛠️ Tech Stack
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+React + TypeScript
 
-# Step 3: Install the necessary dependencies.
-npm i
+Vite
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Tailwind CSS
+
+Shadcn/UI Components
+
+ESLint for linting
+
+PostCSS for styling pipeline
+
+📂 Project Structure
+
+src/components/ → UI components (cards, carousel, forms, dialogs, etc.)
+
+src/pages/ → Main pages like Home, Movie Details, Booking
+
+public/ → Static assets (favicon, placeholder images)
+
+index.html → Main application entry point
+
+package.json → Dependencies & scripts
+
+▶️ How to Run
+npm install
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/fa074d5f-41b0-45a3-a470-aa2355b737cd) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
